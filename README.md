@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/big%20100.gif)
+‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![MasterHead](https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/SAHITYABANNER%20FINAL.gif)
 
 <h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
 <h3 align="center">A passionate Data/Financial Analyst from India</h3>
