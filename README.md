@@ -1,6 +1,4 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/121749217/227902354-8c38541f-e56a-45bc-b3bc-dad30ad40e2c.gif"></p>
-![linkedin_circle_logo](https://user-images.githubusercontent.com/121749217/227907181-54c4dfd6-e96b-4706-9169-8b0b8a590095.png)
-
 
 <h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
 <h3 align="center">A passionate Data/Financial Analyst from India</h3>
