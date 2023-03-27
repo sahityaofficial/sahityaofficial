@@ -1,4 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/121749217/227902354-8c38541f-e56a-45bc-b3bc-dad30ad40e2c.gif"></p>
+![linkedin_circle_logo](https://user-images.githubusercontent.com/121749217/227907181-54c4dfd6-e96b-4706-9169-8b0b8a590095.png)
+
 
 <h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
 <h3 align="center">A passionate Data/Financial Analyst from India</h3>
@@ -7,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="sahityaofficial" /></a> </p> 
 
-<p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank"><img width="5%" src="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/linkedin-icon-logo-png-transparent.png"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank"><img width="5%" src="https://user-images.githubusercontent.com/121749217/227907181-54c4dfd6-e96b-4706-9169-8b0b8a590095.png"></a> </p>
   
 <p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank">Follow on Linkedin @SAHITYAOFFICIAL</a> </p>
   
