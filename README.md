@@ -1,4 +1,5 @@
-![56b51480-c607-11ea-9364-1833e8a27608](https://user-images.githubusercontent.com/121749217/227901395-4a69295e-f3f7-4d9a-b46c-eb035a0644ae.jpg)
+![SAHITYABANNER FINAL](https://user-images.githubusercontent.com/121749217/227902354-8c38541f-e56a-45bc-b3bc-dad30ad40e2c.gif)
+
 
 <h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
 <h3 align="center">A passionate Data/Financial Analyst from India</h3>
