@@ -1,4 +1,4 @@
-![SAHITYABANNER FINAL](https://user-images.githubusercontent.com/121749217/227902354-8c38541f-e56a-45bc-b3bc-dad30ad40e2c.gif)
+<img src="https://user-images.githubusercontent.com/121749217/227902354-8c38541f-e56a-45bc-b3bc-dad30ad40e2c.gif">
 
 
 <h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
