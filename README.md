@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="sahityaofficial" /></a> </p> 
 
-<p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank"><img width="5%" src="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/linkedin-icon-logo-png-transparent.png"=/></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank"><img width="5%" src="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/linkedin-icon-logo-png-transparent.png"></a> </p>
   
 <p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank">Follow on Linkedin @SAHITYAOFFICIAL</a> </p>
   
