@@ -11,7 +11,7 @@
   
 <p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank">Follow on Linkedin @SAHITYAOFFICIAL</a> </p>
   
-- 🔭 I’m currently working on [Whatsaap-Business BOT](https://www.sahityaofficial.com/)
+- 🔭 I’m currently working on [Whatsaap-Business-BOT (GPT)](https://www.sahityaofficial.com/)
 
 - 🌱 I’m currently learning **R, Azure, SAAS, AWS**
 
