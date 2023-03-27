@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahityaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sahityaofficial" /> </p>
 
-<p align="left"> <a href=""https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="sahityaofficial" /></a> </p> 
+<p align="left"> <a href="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="sahityaofficial" /></a> </p> 
 
 <p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank"><img width="5%" src="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/linkedin-icon-logo-png-transparent.png"=/></a> </p>
   
