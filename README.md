@@ -1,4 +1,4 @@
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![MasterHead](https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/SAHITYABANNER%20FINAL.gif)
+![56b51480-c607-11ea-9364-1833e8a27608](https://user-images.githubusercontent.com/121749217/227901395-4a69295e-f3f7-4d9a-b46c-eb035a0644ae.jpg)
 
 <h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
 <h3 align="center">A passionate Data/Financial Analyst from India</h3>
